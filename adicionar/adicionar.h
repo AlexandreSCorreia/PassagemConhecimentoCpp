@@ -1,0 +1,1 @@
+float adicionar(float val1, float val2);
