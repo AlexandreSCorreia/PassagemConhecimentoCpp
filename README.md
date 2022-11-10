@@ -15,7 +15,6 @@ Baixe esse repositório com o comando ```git clone <link-do-repositorio>``` e fa
 ## Windows
 
 * Abrir um cmd.exe dentro do diretório onde está esse README;
-
 * Digitar bootstrap.bat seguido de ENTER;
-Será gerada uma solution em build/Teste.sln; 
-* Mande compilar.
+* Será gerada uma solution em build/Teste.sln; 
+* Abrir ela e mande compilar.
