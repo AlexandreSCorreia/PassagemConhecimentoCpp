@@ -9,7 +9,7 @@ Baixe esse repositório com o comando ```git clone <link-do-repositorio>``` e fa
 ## Requisitos
 
 * [Visual Studio Community](https://visualstudio.microsoft.com/pt-br/) com os seguintes componentes instalados:
-* Workload "Desktop development with C++"
+  * Workload "Desktop development with C++"
 * [CMake](https://cmake.org/)
 
 ## Windows
